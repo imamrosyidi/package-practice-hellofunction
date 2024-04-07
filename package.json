@@ -9,7 +9,7 @@
     "build": "tsup"
   },
   "repository": {
-    "url": "https://github.com/imamrosyidi/package-practice"
+    "url": "https://github.com/imamrosyidi/package-practice-hellofunction"
   },
   "homepage": "https://github.com/imamrosyidi",
   "keywords": [
