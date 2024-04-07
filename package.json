@@ -1,0 +1,25 @@
+{
+  "name": "package-practice-hellofunction",
+  "version": "1.0.1",
+  "description": "Practice for create and publish my first npm package",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "url": "https://github.com/imamrosyidi/package-practice"
+  },
+  "homepage": "https://github.com/imamrosyidi",
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "author": "imamrosyidi",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.4"
+  }
+}
