@@ -1,6 +1,6 @@
 {
   "name": "package-practice-hellofunction",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Practice for create and publish my first npm package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
