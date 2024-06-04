@@ -1,3 +1,3 @@
 # Say Hello Function
 
-not so halpfull modules, created only for learning and practice
+not so helpfull modules, created only for exploring and practice
